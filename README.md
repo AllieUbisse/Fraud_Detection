@@ -1,2 +1,3 @@
-# Fraud_Detection
-Accurately classify the fraudulent transactions from Xente's e-commerce platform
+# Fraud Detection
+## [Wiki Project Details](https://github.com/AllieUbisse/Fraud_Detection/wiki)
+
